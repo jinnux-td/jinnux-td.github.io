@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Concurrency in application
+categories: Concurrency System-design
 ---
 
 Business process that need to be a transaction, which success or fail but not in middle state.
